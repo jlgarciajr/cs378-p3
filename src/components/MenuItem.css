@@ -1,0 +1,14 @@
+button {
+    float: right;
+    margin: 10%;
+}
+
+.card-img-top {
+    margin: 1%;
+    padding: 5%;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 15% !important;
+}

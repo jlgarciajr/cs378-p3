@@ -6,3 +6,27 @@
 .menu {
   color: blue;
 }
+
+html {
+  background-color: #bfddb3;
+  margin: 2%;
+}
+body {
+  background: none transparent!important;
+}
+
+.logo {
+  width: 100%;
+}
+
+.stylized-text {
+  width: 100%;
+  align-self: center;
+  justify-content: center;
+}
+
+.subheader {
+  text-align: center;
+  color: white;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
